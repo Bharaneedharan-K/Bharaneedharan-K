@@ -2,17 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Bharaneedharan-K)
 
-### 💡 About Me
-I'm Bharanee, a passionate **Backend Developer** who loves building scalable web applications and APIs. I'm constantly learning and experimenting with new tech stacks to create robust and secure backend systems.
 
-- 🔭 Currently working on: MERN stack projects & API design.
-- 🌱 Currently learning: **Spring Boot**, **Microservices**, and **System Design**.
-- 👯 Looking to collaborate on: Backend-heavy full stack applications.
-- 💬 Ask me about: Node.js, Express, MongoDB, REST APIs.
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:your.email@example.com)
-- ⚡ Fun fact: I love turning caffeine into code ☕💻
-
----
 
 ### 🛠️ Tech Stack
 

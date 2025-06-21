@@ -38,7 +38,7 @@ I'm a passionate **Full Stack Developer** with a strong focus on backend develop
   <img src="https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🌐 Frontend (Basic)
+### 🌐 Frontend
 <p>
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -89,8 +89,5 @@ I'm a passionate **Full Stack Developer** with a strong focus on backend develop
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Bharaneedharan-K&icon=0&color=6" />
-  </a>
-</p>
+
+

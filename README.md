@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Bharaneedharan!</h1>
 <p align="center">
-  🚀 Full Stack Developer | 🔧 Backend Specialist | 🌐 API Enthusiast
+  🚀 Full Stack Developer | 🔧 Backend Enthusiast
 </p>
 
 <p align="center">
@@ -11,7 +11,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** with a strong focus on backend development. I love building scalable APIs, managing databases, and delivering seamless web applications. Whether it's crafting logic on the server side or wiring up the frontend, I enjoy working across the stack to bring ideas to life.
+I'm a passionate **Full Stack Developer** with a strong interest in backend development. I love building scalable APIs, managing databases, and delivering seamless web applications. Whether it's crafting logic on the server side or wiring up the frontend, I enjoy working across the stack to bring ideas to life.
+
+I'm always open to **learning** and **exploring new technologies** to expand my skills and build better, smarter solutions.
 
 ---
 
@@ -88,6 +90,3 @@ I'm a passionate **Full Stack Developer** with a strong focus on backend develop
 </p>
 
 ---
-
-
-

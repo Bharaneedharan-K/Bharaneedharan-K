@@ -63,6 +63,17 @@ I'm always open to **learning** and **exploring new technologies** to expand my 
 
 ---
 
+## 🚀 Projects
+
+| Project | Description | Stack | Demo |
+|--------|-------------|-------|------|
+| **Portfolio** | Personal portfolio to showcase my work and skills. | MERN | [portfolio-bharanee.vercel.app](https://portfolio-bharanee.vercel.app/) |
+| **BinFn** | Share helpful code snippets with others for learning or reuse. | MERN | [binfn.vercel.app](https://binfn.vercel.app/) |
+| **EpicClash** | Tournament registration platform for Esports events. | WAMP (PHP + SQL) | [epicclash.free.nf](http://epicclash.free.nf/) |
+| **Tic-Tac-Toe** | Online multiplayer Tic-Tac-Toe with real-time rooms. | MERN + WebSocket | [tic-tac-toe-multiplayers.vercel.app](https://tic-tac-toe-multiplayers.vercel.app/) |
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -88,5 +99,3 @@ I'm always open to **learning** and **exploring new technologies** to expand my 
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----

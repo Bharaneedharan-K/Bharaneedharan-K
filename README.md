@@ -31,7 +31,6 @@ I'm always open to **learning** and **exploring new technologies** to expand my 
   <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-%23404D59?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-%23D42029?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
@@ -51,9 +50,12 @@ I'm always open to **learning** and **exploring new technologies** to expand my 
 <p>
   <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/WAMP-%23A41E11?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-%23FB7A24?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
+
 
 ### ☁️ Deployment & Hosting
 <p>
